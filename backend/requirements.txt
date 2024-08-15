@@ -1,0 +1,29 @@
+# Framework web
+flask==2.0.1
+
+# Banco de dados
+flask-sqlalchemy==2.5.1
+mysql-connector-python==8.0.26
+
+# Autenticação e autorização
+flask-login==0.5.0
+flask-security==3.0.0
+
+# Formulários
+flask-wtf==0.15.1
+
+# Templates
+jinja2==3.0.3
+
+# Upload de arquivos
+flask-reuploaded==0.3.2
+
+# Email
+flask-mail==0.9.1
+
+# Debugging
+flask-debugtoolbar==0.11.0
+
+# Testes
+pytest==6.2.5
+pytest-flask==1.2.0
